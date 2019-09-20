@@ -1,0 +1,30 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".src_project_version" type="PLAIN_TEXT" />
+      <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="asda" type="PLAIN_TEXT" />
+      <mapping pattern="pie" type="PLAIN_TEXT" />
+      <mapping ext="reportingtask" type="PLAIN_TEXT" />
+      <mapping ext="constants" type="PLAIN_TEXT" />
+      <mapping ext="darwin" type="PLAIN_TEXT" />
+      <mapping ext="delta" type="PLAIN_TEXT" />
+      <mapping ext="confg" type="PLAIN_TEXT" />
+      <mapping ext="processor" type="PLAIN_TEXT" />
+      <mapping ext="avsc" type="PLAIN_TEXT" />
+      <mapping ext="avro" type="PLAIN_TEXT" />
+      <mapping ext="nar" type="PLAIN_TEXT" />
+      <mapping ext="const" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="m" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

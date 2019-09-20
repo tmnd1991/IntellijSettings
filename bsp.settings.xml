@@ -1,0 +1,5 @@
+<application>
+  <component name="BspSystemSettings">
+    <option name="bloopPath" value="/usr/local/bin/bloop" />
+  </component>
+</application>

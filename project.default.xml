@@ -1,0 +1,48 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="BspLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="/Volumes/Repos/vfa/middleware" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="experimental" />
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="/Volumes/Repos/Agile.Wasp2" value="PREVIEW" />
+            <entry key="/Volumes/Repos/Vodafone.BigData.Prod" value="PREVIEW" />
+            <entry key="/Volumes/Repos/darwin" value="PREVIEW" />
+            <entry key="/Volumes/Repos/schemaless" value="PREVIEW" />
+            <entry key="/Volumes/Repos/vfa/middleware" value="PREVIEW" />
+            <entry key="/Volumes/Repos/vfa/sftpexporttool" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+        <option name="maximumHeapSize" value="4096" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

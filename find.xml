@@ -1,0 +1,30 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>scala</mask>
+    <mask>pom.xml\</mask>
+    <mask>*scala</mask>
+    <mask>*.sbt</mask>
+    <mask>*.java</mask>
+    <mask>*.md</mask>
+    <mask>*1</mask>
+    <mask>*.properties</mask>
+    <mask>*.xml</mask>
+    <mask>pom.xml</mask>
+    <mask>*</mask>
+    <mask>*.scala</mask>
+    <mask>*.conf</mask>
+  </component>
+</application>
