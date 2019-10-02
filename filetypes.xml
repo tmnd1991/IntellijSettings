@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ConfSpec" type="PLAIN_TEXT" />
       <mapping pattern="pie" type="PLAIN_TEXT" />
+      <mapping pattern="AbstractConfSpec" type="PLAIN_TEXT" />
       <mapping pattern=".src_project_version" type="PLAIN_TEXT" />
       <mapping pattern="asda" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
