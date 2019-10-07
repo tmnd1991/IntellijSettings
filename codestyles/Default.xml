@@ -9,4 +9,7 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <ScalaCodeStyleSettings>
+    <option name="FORMATTER" value="1" />
+  </ScalaCodeStyleSettings>
 </code_scheme>
