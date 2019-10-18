@@ -17,6 +17,7 @@
       <mapping ext="darwin" type="PLAIN_TEXT" />
       <mapping ext="nar" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
+      <mapping ext="dependencies" type="PLAIN_TEXT" />
       <mapping ext="reportingtask" type="PLAIN_TEXT" />
       <mapping ext="constants" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
