@@ -1,12 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="left" type="PLAIN_TEXT" />
       <mapping pattern="ConfSpec" type="PLAIN_TEXT" />
       <mapping pattern="pie" type="PLAIN_TEXT" />
       <mapping pattern="AbstractConfSpec" type="PLAIN_TEXT" />
       <mapping pattern=".src_project_version" type="PLAIN_TEXT" />
       <mapping pattern="asda" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="right" type="PLAIN_TEXT" />
       <mapping ext="delta" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
       <mapping ext="const" type="PLAIN_TEXT" />
