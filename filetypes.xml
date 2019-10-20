@@ -1,13 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="left" type="PLAIN_TEXT" />
-      <mapping pattern="ConfSpec" type="PLAIN_TEXT" />
       <mapping pattern="pie" type="PLAIN_TEXT" />
       <mapping pattern="AbstractConfSpec" type="PLAIN_TEXT" />
       <mapping pattern=".src_project_version" type="PLAIN_TEXT" />
       <mapping pattern="asda" type="PLAIN_TEXT" />
-      <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="ConfSpec" type="PLAIN_TEXT" />
       <mapping pattern="right" type="PLAIN_TEXT" />
       <mapping ext="delta" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
@@ -20,6 +20,7 @@
       <mapping ext="dependencies" type="PLAIN_TEXT" />
       <mapping ext="reportingtask" type="PLAIN_TEXT" />
       <mapping ext="constants" type="PLAIN_TEXT" />
+      <mapping ext="copnf" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
