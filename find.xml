@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -17,11 +18,11 @@
     <mask>*1</mask>
     <mask>*.xml</mask>
     <mask>*.const</mask>
-    <mask>*</mask>
     <mask>pom.xml</mask>
     <mask>*.properties</mask>
     <mask>*.scala</mask>
     <mask>*.md</mask>
     <mask>*.conf</mask>
+    <mask>*</mask>
   </component>
 </application>
