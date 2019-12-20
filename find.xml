@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.conf" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -22,8 +23,8 @@
     <mask>*.properties</mask>
     <mask>*.md</mask>
     <mask>*</mask>
-    <mask>*.conf</mask>
     <mask>*.sbt</mask>
     <mask>*.scala</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
