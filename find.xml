@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -20,12 +21,12 @@
     <mask>*1</mask>
     <mask>*.xml</mask>
     <mask>*.const</mask>
-    <mask>pom.xml</mask>
     <mask>*.properties</mask>
     <mask>*.md</mask>
     <mask>*</mask>
     <mask>*.sbt</mask>
     <mask>*.conf</mask>
     <mask>*.scala</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
