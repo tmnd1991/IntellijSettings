@@ -2,6 +2,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="ChangesView.Move" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
@@ -30,6 +31,8 @@
   <action id="Terminal.SwitchFocusToEditor">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="UsageView.Include" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
