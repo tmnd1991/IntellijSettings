@@ -20,10 +20,10 @@
     <mask>*.const</mask>
     <mask>*.properties</mask>
     <mask>pom.xml</mask>
-    <mask>*.md</mask>
     <mask>*.sbt</mask>
     <mask>*.conf</mask>
     <mask>*</mask>
     <mask>*.scala</mask>
+    <mask>*.md</mask>
   </component>
 </application>
