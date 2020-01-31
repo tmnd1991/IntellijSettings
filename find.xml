@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="reference.conf" />
+    <option name="FILE_MASK" value="*.scala" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -26,7 +26,8 @@
     <mask>*.md</mask>
     <mask>*.json</mask>
     <mask>*.conf</mask>
-    <mask>*.scala</mask>
     <mask>reference.conf</mask>
+    <mask>*.xsd</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
