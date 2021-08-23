@@ -12,6 +12,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="left" type="PLAIN_TEXT" />
       <mapping pattern=".src_project_version" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="right" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping ext="confg" type="PLAIN_TEXT" />
