@@ -1,6 +1,6 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="shift meta t" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="ChangesView.Move" />
   <action id="CollapseAll">
@@ -19,6 +19,7 @@
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
   <action id="GotoTest" />
+  <action id="NextWindow" />
   <action id="ResourceExplorer.show" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
@@ -28,6 +29,7 @@
     <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
   <action id="ServiceView.ShowServices" />
+  <action id="ShowSettings" />
   <action id="Terminal.SwitchFocusToEditor">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
