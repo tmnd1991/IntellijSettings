@@ -17,7 +17,6 @@
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping ext="confg" type="PLAIN_TEXT" />
       <mapping ext="nar" type="PLAIN_TEXT" />
-      <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="constants" type="PLAIN_TEXT" />
       <mapping ext="processor" type="PLAIN_TEXT" />
       <mapping ext="dependencies" type="PLAIN_TEXT" />
@@ -28,6 +27,7 @@
       <mapping ext="delta" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="avro" approved="true" type="Avro" />
+      <removed_mapping ext="avsc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
