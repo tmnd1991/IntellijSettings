@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="asda" type="PLAIN_TEXT" />
       <mapping pattern="0adc53c2-47af-4efa-9218-2f50912d813f" type="PLAIN_TEXT" />
+      <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
       <mapping pattern="pie" type="PLAIN_TEXT" />
       <mapping pattern="AbstractConfSpec" type="PLAIN_TEXT" />
       <mapping pattern="ConfSpec" type="PLAIN_TEXT" />
