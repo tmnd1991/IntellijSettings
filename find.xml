@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sbt" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -18,7 +19,6 @@
     <mask>*.const</mask>
     <mask>*.properties</mask>
     <mask>pom.xml</mask>
-    <mask>*.sbt</mask>
     <mask>*.md</mask>
     <mask>*.json</mask>
     <mask>reference.conf</mask>
@@ -27,5 +27,6 @@
     <mask>*</mask>
     <mask>*.conf</mask>
     <mask>*.scala</mask>
+    <mask>*.sbt</mask>
   </component>
 </application>
