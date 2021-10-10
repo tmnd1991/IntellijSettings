@@ -13,15 +13,36 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
+  <action id="Console.TableResult.SetDefault" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="GotoTest" />
+  <action id="Jdbc.OpenConsole.New" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="NextEditorTab" />
+  <action id="NextTab" />
   <action id="NextWindow" />
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab" />
   <action id="QuickChangeScheme" />
   <action id="ResourceExplorer.show" />
+  <action id="Scala.Desugar" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
@@ -30,12 +51,15 @@
     <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
   <action id="ServiceView.ShowServices" />
+  <action id="ShowContent" />
   <action id="ShowSettings" />
   <action id="Terminal.SwitchFocusToEditor">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="UsageView.Include" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
+  <action id="ZeppelinSelectCellAboveAction" />
+  <action id="ZeppelinSelectCellBelowAction" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
