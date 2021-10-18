@@ -24,8 +24,8 @@
     <mask>*.xsd</mask>
     <mask>*.ts</mask>
     <mask>*</mask>
-    <mask>*.conf</mask>
     <mask>*.sbt</mask>
     <mask>*.scala</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
