@@ -28,6 +28,11 @@
       <mapping ext="const" type="PLAIN_TEXT" />
       <mapping ext="copnf" type="PLAIN_TEXT" />
       <mapping ext="delta" type="PLAIN_TEXT" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
+      <mapping ext="model" type="Tabnine project model file" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="avro" approved="true" type="Avro" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
