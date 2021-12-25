@@ -3,7 +3,7 @@
     <property name="created">2021-10-10T10:53:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.2.0.0</property>
-    <property name="modified">2021-11-19T11:02:49</property>
+    <property name="modified">2021-12-25T23:09:08</property>
     <property name="originalScheme">Darcula Darker</property>
   </metaInfo>
   <colors>
@@ -51,27 +51,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="333327" />
+        <option name="BACKGROUND" value="383928" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="29332b" />
+        <option name="BACKGROUND" value="2c392e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="332a34" />
+        <option name="BACKGROUND" value="382d3a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="263233" />
+        <option name="BACKGROUND" value="273738" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="3f2323" />
+        <option name="BACKGROUND" value="412323" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
