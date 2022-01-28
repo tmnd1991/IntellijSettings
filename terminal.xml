@@ -1,8 +1,0 @@
-<application>
-  <component name="TerminalOptionsProvider">
-    <option name="myCopyOnSelection" value="true" />
-    <option name="myShellIntegration" value="false" />
-    <option name="myShellPath" value="/run/current-system/sw/bin/fish" />
-    <option name="myTabName" value="Local" />
-  </component>
-</application>
