@@ -4,7 +4,7 @@
     <property name="created">2022-02-24T07:15:37</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-02-24T07:17:12</property>
+    <property name="modified">2022-03-24T11:04:58</property>
     <property name="originalScheme">Hiberbee Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Fira Code Retina" />
@@ -1127,25 +1127,37 @@
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="31301d" />
+        <option name="BACKGROUND" value="39393d" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="253023" />
+        <option name="BACKGROUND" value="363e3a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="31242f" />
+        <option name="BACKGROUND" value="3d3f38" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="202e2d" />
+        <option name="BACKGROUND" value="423b36" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" value="423533" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" value="423031" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
